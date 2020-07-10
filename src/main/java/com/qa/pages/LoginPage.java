@@ -9,7 +9,11 @@ public class LoginPage {
 		
 		
 	}
-	
+	public void loginSet()
+	{
+		
+		System.out.println("login set");
+	}
 	
 	
 
